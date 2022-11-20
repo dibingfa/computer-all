@@ -32,6 +32,9 @@
 
 **C**
 
+- 【官】GNU C Manual：https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+- 
+
 **ELF**
 
 - 【官】ELF_Format：http://www.skyfree.org/linux/references/ELF_Format.pdf
@@ -46,6 +49,7 @@
 - 【官】源码下载：https://www.gnu.org/software/libc/sources.html
 - 在线查看：https://elixir.bootlin.com/glibc/glibc-2.36/source
 - 【官】手册：https://www.gnu.org/software/libc/manual/
+- 手册在线 pdf：https://people.computing.clemson.edu/~jmarty/courses/LinuxStuff/BashGuides/gnugcclibcManual.pdf
 
 **C++**
 
