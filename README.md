@@ -1,5 +1,9 @@
 # 关于计算机的一切
 
+这里有软件工程师需要关注的一手资料信息
+
+## 底层
+
 **图灵机（Turing Machine）**
 
 - 论文《On Computable Numbers, with an Application to the Entscheidungsproblem》
@@ -7,8 +11,6 @@
 **冯诺依曼架构（Von Neumann Architecture）**
 
 - 论文《First Draft of a Report on the EDVAC》
-
-**计算机硬件**
 
 **ISA**
 
@@ -33,7 +35,6 @@
 **C**
 
 - 【官】GNU C Manual：https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
-- 
 
 **ELF**
 
@@ -53,13 +54,18 @@
 
 **C++**
 
-**Java**
+## Java 专项
+
+**Java 语言**
 
 - 【官】Java Language and Virtual Machine Specifications：https://docs.oracle.com/javase/specs/index.html
 - 【官】JEP：https://openjdk.java.net/jeps/1
-- 【官】JSR：https://jcp.org/en/jsr/detail?id=269
+- 【官】JSR：https://jcp.org/en/jsr/all
 
-# 通用网站
+**OpenJDK**
+
+## 通用网站
 
 - 著名源码在线看：https://codebrowser.dev/
 - Linux Assembly：http://www.linuxassembly.org/
+- cppreference：https://en.cppreference.com/
