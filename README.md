@@ -18,6 +18,7 @@
 - Intel 指令集表格版：https://www.felixcloutier.com/x86/
 - 【官】ARM A64 ISA：https://developer.arm.com/documentation/102374/0101
 - 【官】ARM A32 ISA：https://developer.arm.com/Architectures/A32%20Instruction%20Set%20Architecture
+- 【官】RISC-V Specifications：https://riscv.org/technical/specifications
 - x86 vs ARM：https://learn.saylor.org/mod/book/tool/print/index.php?id=27055
 
 **汇编语言**
@@ -25,6 +26,7 @@
 - 【官】AS Manual：https://sourceware.org/binutils/docs/as/
 - X86 Assembly（Intel）：https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - X86 Assembly（AT&T）：https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
+- 【官】RISC-V Assembly Programmer's Manual：https://github.com/riscv-non-isa/riscv-asm-manual
 
 **Linux**
 
