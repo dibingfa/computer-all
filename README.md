@@ -70,3 +70,4 @@
 - Linux Assembly：http://www.linuxassembly.org/
 - cppreference：https://en.cppreference.com/
 - RFC：https://www.rfc-editor.org/
+- gnu binutils：https://www.gnu.org/software/binutils/
