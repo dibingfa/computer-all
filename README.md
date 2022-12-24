@@ -34,7 +34,9 @@
 **ELF**
 - 【官】ELF_Format：http://www.skyfree.org/linux/references/ELF_Format.pdf
 - 带书签的 ELF：https://refspecs.linuxfoundation.org/elf/elf.pdf
-- System V Application Binary Interface：http://jyywiki.cn/pages/OS/manuals/sysv-abi.pdf
+- System V Application Binary Interface：
+  - http://jyywiki.cn/pages/OS/manuals/sysv-abi.pdf
+  - https://www.owalle.com/2021/12/30/function-calling-sequence/abi.pdf
 
 **gcc**
 - 【官】官方文档：https://gcc.gnu.org/onlinedocs/
