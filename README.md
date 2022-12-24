@@ -26,6 +26,7 @@
 - 【官】源码下载：https://mirrors.edge.kernel.org/pub/linux/kernel/
 - 在线查看：https://elixir.bootlin.com/linux/0.11/source
 - 【官】man page：https://www.kernel.org/doc/man-pages/
+- Linux Base：https://refspecs.linuxbase.org/
 
 **C**
 - 【官】GNU C Manual：https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
@@ -33,7 +34,7 @@
 **ELF**
 - 【官】ELF_Format：http://www.skyfree.org/linux/references/ELF_Format.pdf
 - 带书签的 ELF：https://refspecs.linuxfoundation.org/elf/elf.pdf
-- System V Application Binary Interface：http://sco.com/developers/gabi/latest/contents.html
+- System V Application Binary Interface：http://jyywiki.cn/pages/OS/manuals/sysv-abi.pdf
 
 **gcc**
 - 【官】官方文档：https://gcc.gnu.org/onlinedocs/
