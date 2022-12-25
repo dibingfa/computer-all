@@ -7,7 +7,7 @@ void main() {
 }
 ```
 
-## 编译流程
+## gcc proc
 https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html#Overall-Options
 
 预处理（preprocess）：头文件展开、宏定义替换、条件编译去除
@@ -32,7 +32,7 @@ gcc hello.o -o hello
 gcc hello.o -o hello -static
 ```
 
-## ELF 格式类型
+## ELF type
 
 relocatable 可重定位文件：.o .a
 
@@ -42,9 +42,9 @@ shared object 共享目标文件：.so
 
 core dump 核心转储文件：core dump
 
-## 认识 ELF 格式实战
+## example
 
 
 
-## 链接
+## doc
 https://sourceware.org/binutils/docs-2.39/ld.html
