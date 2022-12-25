@@ -31,6 +31,10 @@ gcc hello.o -o hello
 # 静态链接
 gcc hello.o -o hello -static
 ```
+静态库制作
+```
+ar rcs libflash.a flashadd.o flashsub.o
+```
 
 ## ELF type
 
