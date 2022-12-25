@@ -1,4 +1,4 @@
-## 一、静态链接的计算过程
+## 1. calculate proc
 
 ### main.c
 ```c
@@ -82,7 +82,7 @@ Disassembly of section .text:
 main=40052D
 ```
 
-### hello 的地址可以计算出来 hello = main + callq 指令偏移量 + 静态符号解析后的值
+### hello = main + callq instruct offset + callq value
 hello.c
 ```c
 #include <stdio.h>
@@ -108,4 +108,4 @@ hellooffset=40053d
 calculate hellooffset=40053d
 ```
 
-## 二、静态链接的符号表
+## 2. static symbol
