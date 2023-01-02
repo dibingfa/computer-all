@@ -24,6 +24,7 @@
 ## 已发布文章：
 
 
+
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sunym1993/computer-all&type=Date)](https://star-history.com/#sunym1993/computer-all&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dibingfa/computer-all&type=Date)](https://star-history.com/#dibingfa/computer-all&Date)
